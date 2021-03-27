@@ -1,0 +1,3 @@
+This is a line of something that I wrote on Vim.
+Tee hee!
+jijijiji!
